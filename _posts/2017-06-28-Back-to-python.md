@@ -1,5 +1,5 @@
 ---
-title: Back to python
+title: Python pt2
 layout: post
 author: alex.holloway
 permalink: /back-to-python/
@@ -11,7 +11,7 @@ published: true
     <td>Title:  </td>
     <td>Python </td>
     <td> Date:  </td>
-    <td>14/6/17</td>
+    <td>21/6/17</td>
   </tr>
 </table>
 
@@ -19,11 +19,11 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>A blog and a repl.it account </td>
+    <td>A blog and a repl.it account and 1 system in python</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>To create a system to have a username and password locking it</td>
+    <td>To continue a system to have a username and password locking it and make a conversion calculator</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
@@ -41,19 +41,19 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>There was no real strategies that I used that were affective   </td>
+    <td>There was no real strategies that I used that were effective apart from asking for help   </td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>I definitely need to work on my, and I know I say this every time, but revision. I forget about what I learnt last time. </td>
+    <td>I definitely need to work on my understanding of repl.it shorthand and what each part does</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve </td>
   </tr>
   <tr>
-    <td>Revise from my previous work better</td>
+    <td>Find out what each part does so i know for next time</td>
   </tr>
 </table>
 
