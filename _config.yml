@@ -16,14 +16,14 @@ avatar: https://media.tenor.com/images/a43d5b68ec8cd577bd74fa001e94fa3c/tenor.gi
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
-  email:
-  facebook:
-  flickr:
+  dribbble:2
+  email:2
+  facebook:2
+  flickr:2
   github: barryclark/jekyll-now
-  instagram:
-  linkedin:
-  pinterest:
+  instagram:2
+  linkedin:2
+  pinterest:2
   rss: # just type anything here for a working RSS icon
   twitter: jekyllrb
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
